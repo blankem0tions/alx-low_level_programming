@@ -1,15 +1,11 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_N
+#define MAIN_H
 
-
-/*
+/**
  * File: main.h
- * Desc: Header file containing prototypes for all functions in the project.
+ * Desc: Header file containing protoypes for all functions in the Bit
+ *       manipulation directory.
  */
-
-
-
-int _putchar(char c);
 unsigned int binary_to_uint(const char *b);
 void print_binary(unsigned long int n);
 int get_bit(unsigned long int n, unsigned int index);

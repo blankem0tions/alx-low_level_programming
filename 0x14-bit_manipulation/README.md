@@ -1,1 +1,1 @@
-This is an assignment project on Bit Manipulation
+This is a project on Bit manipulation
